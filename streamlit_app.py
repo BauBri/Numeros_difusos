@@ -25,7 +25,7 @@ metodo = st.selectbox(
 # Pedimos los datos
 num_datos = st.number_input("¿Cuántos datos deseas ingresar?", min_value=4, step=1)
 
-# Ingresamos los datos
+# Ingresamos los datos y usamos las funciones de lógica difusa
 st.subheader("Ingresa los valores:")
 valores = []
 cols = st.columns(2)
