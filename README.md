@@ -1,4 +1,4 @@
-meros Difusos
+# Números Difusos
 
 Aplicación web interactiva desarrollada con Streamlit para la representación, análisis y desdifusificación de datos usando lógica difusa.
 
